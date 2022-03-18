@@ -1,9 +1,18 @@
 Why VNese real estate is unpredictable?
-
-Let's talk about VNese real estate. VNese real etate is contrary to economic theory 
-(Trái vs lý thuyết kt). So It's completly unpredictable, it doesn't matter what the 
-economic theory tells us, teached us. (Không quan trọng lt kt nói dạy chúng ta ntn) 
-Because in VN, real estate prices are just unpredictable. I'm just gonna say (tôi chỉ 
-có thể đoán rằng) it's gonna go up, it only goes up, no matter what happen (dù chuyện 
-gì xảy ra). So VNese real estate value will continue to rise despite what happens in the world 
-(dù có biến cố gì trên thế giới).
+<br>
+<br>
+Let's talk about VNese real estate. VNese real etate is <code>contrary</code> to economic theory. 
+So It's completly unpredictable, <code>it doesn't matter</code> what the 
+economic theory tells us, teached us. 
+Because in VN, real estate prices are just unpredictable. <code>I'm just gonna say</code> 
+it's gonna go up, it only goes up, <code>no matter what happen.</code>
+So VNese real estate value will continue to rise <code>despite what happens in the world </code>
+<br>
+<br/>
+<pre>
+- contrary to economic theory: Trái vs lý thuyết kt
+- it doesn't matter...: Không quan trọng lt kt nói dạy chúng ta ntn
+- no matter what happen: dù chuyện gì xảy ra
+- I'm just gonna say: tôi chỉ có thể đoán rằng
+- ...despite what happens in the world: dù có biến cố gì trên thế giới
+</pre>
