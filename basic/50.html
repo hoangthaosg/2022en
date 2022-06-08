@@ -1804,6 +1804,35 @@ You’re wrong. It wasn’t me.
         </div>
         <div class="col-sm-6">
           <pre>
+- Cụm từ đỗ lỗi ai đó:
+Nó là sai trái của bạn
+Nó là lỗi của bạn
+Tôi không thể tin được rằng bạn đã làm nó.
+Làm như thế nào anh có thể làm được chuyện như vậy?
+Anh mất trí rồi à?
+Bạn đã suy nghĩ cái gì trên trái đất này?
+Tôi nghĩ bạn là người đáng bị trách.
+Tôi nghĩ bạn là người có thể đã làm điều đó.
+
+- Cụm từ buộc tội ai đó:
+Chắc chắn là bạn đã làm nó.
+Tôi nghĩ anh là người duy nhất có thể đã làm nó.
+Anh chắc chắn làm gì đó sai
+
+- Đồng ý sự khiển trách và buộc tội 
+Tôi xin lỗi. Nó là lỗi tôi.
+Tôi xin lỗi vì những chuyện tôi đã làm
+Tôi thật sự xin lỗi. Tôi không có ý vậy.
+Xin lỗi vì sai lầm của tôi
+Nó là trách nhiệm của tôi. Tôi xin lỗi.
+Anh đúng. Nó là lỗi tôi. Tôi xin lỗi.
+
+- Từ chối sự khiển trách và buộc tội
+Nó không đúng
+Nó không phải lỗi của tôi
+Tôi không phải người bị trách lỗi
+Tôi không làm vậy
+Anh sai rồi. Không phải tôi.
 
           </pre>
         </div>
@@ -1819,7 +1848,7 @@ You’re wrong. It wasn’t me.
       $("pre").hide(500);
       $(".title").click(function(){
          $(this).next().toggle();
-         $(this).parent().next().toggle();
+         $(this).parent().next().children("pre").toggle();
       });
     });
   </script>
